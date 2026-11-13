@@ -1,0 +1,3 @@
+repository "Bomberman 2026-02-16_22-57-16/Bomberman@18968367778541@cloud"
+  path "/"
+    smartbranch "/main"
